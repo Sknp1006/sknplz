@@ -1,0 +1,18 @@
+# custom
+.DS_Store
+Thumbs.db
+tmp
+temp/
+yarn.lock
+package-lock.json
+
+# dev
+node_modules/
+*.log
+
+# dist
+public/
+db.json
+.deploy*/
+travis_rsa
+travis_rsa.pub
