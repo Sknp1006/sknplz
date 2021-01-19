@@ -5,6 +5,7 @@ tmp
 temp/
 yarn.lock
 package-lock.json
+update.sh
 
 # dev
 node_modules/
