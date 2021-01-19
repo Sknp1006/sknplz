@@ -20,7 +20,7 @@ avatar:
     emoji: 🙂
     message: 我要飞
 
-favicon: /yun.svg
+favicon: /favicon.ico
 
 cursor:
   enable: true
