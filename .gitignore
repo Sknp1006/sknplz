@@ -6,6 +6,7 @@ temp/
 yarn.lock
 package-lock.json
 update.sh
+.idea/
 
 # dev
 node_modules/
