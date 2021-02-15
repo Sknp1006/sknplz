@@ -3,18 +3,6 @@ layout: girls
 title: 我的关注
 banner: <span title="大家都是我的天使！">排名不分先后</span>
 girls:
-  - name: 御坂美琴
-    avatar: https://cdn.jsdelivr.net/gh/Sknp1006/cdn@master/img/likes/Mikoto.jpg
-    from: 某科学的超电磁炮
-    reason: 你指尖跃动的电光，是我此生不灭的信仰，唯我超电磁炮永世长存！
-  - name: 白井黑子
-    avatar: https://cdn.jsdelivr.net/gh/Sknp1006/cdn@master/img/likes/Kuroko.jpg
-    from: 某科学的超电磁炮
-    reason: 夹击妹抖迭斯喏
-  - name: 食蜂操析
-    avatar: https://cdn.jsdelivr.net/gh/Sknp1006/cdn@master/img/likes/Misaki.jpg
-    from: 某科学的超电磁炮
-    reason: 大大大
   - name: Hanser
     avatar: https://cdn.jsdelivr.net/gh/Sknp1006/cdn@master/img/likes/Hanser.jpg
     url: https://space.bilibili.com/11073
