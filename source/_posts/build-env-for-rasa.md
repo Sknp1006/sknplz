@@ -35,7 +35,7 @@ Rasa UI：3.0.3
 
 CUDA 10.1下载链接：[https://developer.nvidia.com/cuda-10.1-download-archive-base](https://developer.nvidia.com/cuda-10.1-download-archive-base)
 > 安装过程偶见自动重启现象，请在安装CUDA时选择`自定义`，分别安装`图形驱动程序`与`CUDA`
- 
+
 ## 安装tensorflow
 > 官方文档：[https://tensorflow.google.cn/](https://tensorflow.google.cn/) 
 
@@ -101,7 +101,7 @@ pip install rasa-x --extra-index-url https://pypi.rasa.com/simple
   trusted-host = mirrors.aliyun.com
   ```
   * [解决tensorflow-gpu 2.1出现错误“Could not load dynamic library 'cudart64_101.dll'](https://blog.csdn.net/qq_41999081/article/details/104515513) 
-  
+
 
 
 ### 安装spaCy
@@ -136,8 +136,6 @@ npm install
   * 若要使用 v140 生成工具进行生成，请安装 Visual Studio 2015 生成工具
   * RasaUI\@3.0.3默认使用sqlite3\@4.1.0下载失败：参考[sqlite3](https://www.npmjs.com/package/sqlite3) 
   * fatal error LNK1127: 库已损坏，参考：[安装node-gyp并build——解决 "node.lib:fatal error LNK1127" 问题](https://blog.csdn.net/qq_33826977/article/details/78645665) 
-
-# 在Ubuntu环境下
 
 ---
 
