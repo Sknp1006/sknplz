@@ -17,8 +17,8 @@ avatar:
   mickey_mouse: false
   status:
     enable: true
-    emoji: 🙂
-    message: 我要飞
+    emoji: 💪
+    message: 此刻正是转变之时
 
 favicon: /favicon.ico
 
