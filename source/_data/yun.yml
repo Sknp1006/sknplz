@@ -216,7 +216,7 @@ github_discussions:
   repository: sknplz
 
 waline:
-  enable: true
+  enable: false
   serverURL: https://waline.sknplz.xyz
   visitor: true
   comment: true
@@ -312,7 +312,7 @@ waline:
   requiredFields: ["nick"]
 
 valine:  # 评论系统支持
-  enable: false
+  enable: true
   appId: TEEMgoUkM7r2fDPxavyU70ki-MdYXbMMI
   appKey: v0MAKXoyL6Xm7GpNDIuTc5Rp
   placeholder: 大佬求指教 _(:з」∠)_（填写邮箱会收到回复提醒）  # comment box placeholder
