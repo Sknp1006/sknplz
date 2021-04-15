@@ -220,6 +220,7 @@ waline:
   serverURL: https://waline.sknplz.xyz
   visitor: true
   comment: true
+  path: window.location.pathname
   emojiCDN: https://valinecdn.bili33.top/
   emojiMaps:
     {
