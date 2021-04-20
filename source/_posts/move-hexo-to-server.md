@@ -228,6 +228,13 @@ To https://github.com/Sknp1006/sknplz
    688587d..0dbacec  hexo -> hexo
 ```
 
+## 更新yun主题子模块
+
+在**.gitmodules**所在路径运行以下代码：
+```sh
+git submodule update --remote
+```
+
 你也可以参考 Hexo 的官方文档 [将 Hexo 部署到 GitHub Pages](https://hexo.io/zh-cn/docs/github-pages)
 
 推送后便可直接自动部署。

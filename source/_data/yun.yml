@@ -216,11 +216,10 @@ github_discussions:
   repository: sknplz
 
 waline:
-  enable: false
+  enable: true
   serverURL: https://waline.sknplz.xyz
   visitor: true
   comment: true
-  path: window.location.pathname
   emojiCDN: https://valinecdn.bili33.top/
   emojiMaps:
     {
@@ -312,7 +311,7 @@ waline:
   requiredFields: ["nick"]
 
 valine:  # 评论系统支持
-  enable: true
+  enable: false
   appId: TEEMgoUkM7r2fDPxavyU70ki-MdYXbMMI
   appKey: v0MAKXoyL6Xm7GpNDIuTc5Rp
   placeholder: 大佬求指教 _(:з」∠)_（填写邮箱会收到回复提醒）  # comment box placeholder
