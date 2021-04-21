@@ -91,7 +91,7 @@ pages:  # 侧边栏社交平台下方链接
     icon: icon-heart-line
     color: hotpink
   - name: 图床
-    url: https://api.sknplz.xyz/
+    url: https://api.sknp.top/
     icon: icon-cloud-line
     color: "#FA8072" # 鲑鱼色
   - name: 留言版
