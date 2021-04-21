@@ -90,7 +90,7 @@ pages:  # 侧边栏社交平台下方链接
     url: /girls/
     icon: icon-heart-line
     color: hotpink
- - name: 图床
+  - name: 图床
     url: https://api.sknplz.xyz/
     icon: icon-cloud-line
     color: "#FA8072" # 鲑鱼色
