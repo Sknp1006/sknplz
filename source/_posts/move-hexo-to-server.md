@@ -230,7 +230,8 @@ To https://github.com/Sknp1006/sknplz
 
 ## 更新yun主题子模块
 
-在**.gitmodules**所在路径运行以下代码：
+在`.gitmodules`所在路径运行以下代码：
+
 ```sh
 git submodule update --remote
 ```

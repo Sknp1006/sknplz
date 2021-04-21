@@ -90,10 +90,10 @@ pages:  # 侧边栏社交平台下方链接
     url: /girls/
     icon: icon-heart-line
     color: hotpink
-#  - name: 画册
-#    url: /albums/
-#    icon: icon-gallery-line
-#    color: "#FA8072" # 鲑鱼色
+ - name: 图床
+    url: https://api.sknplz.xyz/
+    icon: icon-cloud-line
+    color: "#FA8072" # 鲑鱼色
   - name: 留言版
     url: /board/
     icon: icon-chat-3-line
