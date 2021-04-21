@@ -2,7 +2,9 @@
 title: 关于我
 date: 2020-07-02 16:55:40
 ---
-{% meting "5228962805" "netease" "playlist" "theme:#FF4081" "mode:circulation" "mutex:true" "listmaxheight:340px" "preload:auto" %}
+> 客官里边请~~
+
+<iframe height="666" src="https://www.yunyoujun.cn/air-conditioner/"></iframe>
 
 ### 关于昵称
 
