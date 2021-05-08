@@ -119,9 +119,9 @@ menu: # main menu navigation
       path: /tags/
       icon: icon-price-tag-3-line
   custom:
-    title: 画册
-    path: /albums/
-    icon: icon-gallery-line
+    title: 下一站
+    path: https://sknp.top
+    icon: icon-external-link-line
 #    title: 关于我
 #    path: /about/
 #    icon: icon-clipboard-line
