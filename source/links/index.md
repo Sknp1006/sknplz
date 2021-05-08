@@ -18,7 +18,7 @@ links:
     name: DarkFox
     blog: 冥狐的小站
     desc: 如无必要，勿增实体
-    color: "#E6E6E6"
+    color: "#000000"
   - url: https://www.hzq.life
     avatar: https://netdisc-list.itpours.com/blog/ico_s/logo.png
     name: 新加卷
