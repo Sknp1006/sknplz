@@ -33,6 +33,11 @@ links:
     name: 紫奈
     blog: 紫奈の肥宅屋
     desc: 只有付出才能得到,即是等价交换.
+  - url: https://shuangxunian.gitee.io
+    avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=836473734&spec=5
+    name: 霜序廿
+    blog: 霜序廿的个人网站
+    desc: 最怕一生碌碌无为，却说平凡难得可贵
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---

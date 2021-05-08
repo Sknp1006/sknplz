@@ -121,7 +121,7 @@ menu: # main menu navigation
   custom:
     title: 下一站
     path: https://sknp.top
-    icon: icon-external-link-line
+    icon: icon-arrow-right-line
 #    title: 关于我
 #    path: /about/
 #    icon: icon-clipboard-line
