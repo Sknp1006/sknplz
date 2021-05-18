@@ -220,7 +220,7 @@ waline:
   serverURL: https://waline.sknplz.xyz
   visitor: true
   comment: true
-  avatarCDN: https://cdn.v2ex.com/gravatar/
+  avatarCDN: https://sdn.geekzu.org/avatar/
   placeholder: 填写邮箱也不一定会收到回复～
   requiredFields: ["nick"]
 
