@@ -24,7 +24,7 @@ links:
     name: 新加卷
     blog: 新加卷的小宇宙
     desc: 🌞明日登峰须造极，渺观宇宙我心宽🌠
-    color: "#F7BE81"
+    color: "#FF1493"
   - url: https://sanshiliuxiao.top
     avatar: https://i.loli.net/2019/02/24/5c71bf051a8f2.jpg
     name: 椎咲良田
