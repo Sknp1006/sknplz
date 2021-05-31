@@ -10,7 +10,8 @@ categories:
 
 <!-- more -->
 
-{% meting "2851627206" "netease" "playlist" "theme:#FF4081" "mode:circulation" "mutex:true" "listmaxheight:340px" "preload:auto" %}
+{% meting "5027081935" "netease" "playlist" "theme:#FF4081" "mode:circulation" "mutex:true" "listmaxheight:340px" "preload:auto" %}
+
 ## 摘要
 > 尽可能的使解包过程自动化且智能化
 

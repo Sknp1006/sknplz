@@ -2,9 +2,9 @@
 title: 关于我
 date: 2020-07-02 16:55:40
 ---
-> 客官里边请😊
 
-<iframe height="740" width="100%" frameborder=0 src="https://ac.yunyoujun.cn/"></iframe>
+{% meting "2541024890" "netease" "playlist" "theme:#FF4081" "mode:circulation" "mutex:true" "listmaxheight:340px" "preload:auto" %}
+
 
 ### 关于昵称
 
