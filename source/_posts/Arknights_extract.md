@@ -103,6 +103,7 @@ If you want to change the FBX SDK version, you need to replace libfbxsdk.dll whi
 > 用于合成GALGAME解包后的图片程序。
 >
 > 下载链接: [https://blog.ztjal.info/?dl_id=10](https://blog.ztjal.info/?dl_id=10)
+> 下载链接：[https://pan.baidu.com/s/1oySXwL6B_K7w1Knsy4fhyg](https://pan.baidu.com/s/1oySXwL6B_K7w1Knsy4fhyg) 提取码：oqt2 
 >
 > 博客: [https://blog.ztjal.info/my-computer-using/hate-software/galphotoauto](https://blog.ztjal.info/my-computer-using/hate-software/galphotoauto)
 
